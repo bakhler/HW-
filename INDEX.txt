@@ -1,4 +1,4 @@
-1
-2
-3
+1 git commit
+2 git log
+3 git status
 
